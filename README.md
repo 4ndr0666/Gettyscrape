@@ -56,10 +56,6 @@ Downloading: 17%|████████████▊ | 1/6 [00:03<00:18, 3.8
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
-
 ## Author
 
-Your Name
+4ndr0666
