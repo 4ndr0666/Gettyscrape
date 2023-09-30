@@ -37,7 +37,7 @@ This Python script allows users to scrape and download videos from Getty Images 
 
 ## Output
 
-The script will download the videos to a specified directory and provide a progress bar along with informative messages during the scraping process.
+The script will download the videos to '/$USER/Getty' and provide a progress bar along with informative messages during the scraping process.
 
 ### Sample Output
 
