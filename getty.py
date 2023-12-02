@@ -27,7 +27,7 @@ def get_videos_from_getty(driver, search_term, pages, dir):
     for i in range(1, pages + 1):
         url = f"https://www.gettyimages.com/videos/{search_term}?page={i}"
         driver.get(url)
-        
+
         try:
             wait.until(EC.presence_of_all_elements_located((By.XPATH, "//article")))
         except:
@@ -35,7 +35,7 @@ def get_videos_from_getty(driver, search_term, pages, dir):
             continue
 
         thumbnails = driver.find_elements(By.XPATH, "//article")
-        
+
         for idx in tqdm(range(len(thumbnails)), desc=f"Downloading", bar_format="{l_bar}%s{bar}%s{r_bar}" % ("\033[36m", "\033[0m")):
             max_retries = 3
             retries = 0
