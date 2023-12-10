@@ -1,0 +1,14 @@
+Reviewing script at: https://raw.githubusercontent.com/AlphaArtrem/gettyimages-download-bot/master/main.py
+
+Reviewing script at: https://raw.githubusercontent.com/JohnGrosshans/GettyChopper/master/GettyChopper.js
+
+Reviewing script at: https://raw.githubusercontent.com/SysAdminMaster/Image-Scraper/main/main.py
+
+Reviewing script at: https://raw.githubusercontent.com/AlphaArtrem/gettyimages-download-bot/master/main.py
+
+Reviewing script at: https://raw.githubusercontent.com/sfmoma/getty-getter/master/build/scripts-2.7/getty_scraper.py
+
+Reviewing script at: https://raw.githubusercontent.com/c-w/GettyArt/master/setup.py
+
+Reviewing script at: https://raw.githubusercontent.com/saftle/getty_images_thumbnail_scraper/main/getty_scraper.py
+

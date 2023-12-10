@@ -5,8 +5,10 @@ name = "pypi"
 
 [packages]
 selenium = "*"
-urllib3 = "==1.26.7"
-tqdm = "==4.62.3"
+urllib3 = "*"
+tqdm = "*"
+requests = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 
